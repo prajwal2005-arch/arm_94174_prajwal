@@ -1,0 +1,4 @@
+../Src/gpio.c:33:6:gpio_init	4	static
+../Src/gpio.c:50:15:read_switch	4	static
+../Src/gpio.c:55:6:led_on	4	static
+../Src/gpio.c:60:6:led_off	4	static
